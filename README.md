@@ -180,11 +180,11 @@
 
 | Projeto | Descrição | Tecnologias |
 |:---|:---|:---:|
-| 🗳️ **[SistemaEleicao](https://github.com/rafaellfsouza/SistemaEleicao)** | Sistema de eleição completo em .NET, com aplicação console e suíte de testes automatizados. | `C#` `.NET` `xUnit` |
+| 🗳️ **[SistemaEleicao](https://github.com/rafaellfsouza/SistemaEleicao)** | Sistema de eleição em .NET com domínio modelado, regras de negócio e 25 testes unitários em xUnit. | `C#` `.NET` `xUnit` |
 | ✅ **[TaskFlow Console](https://github.com/rafaellfsouza/taskflow-console)** | Gerenciador de tarefas via linha de comando, focado em produtividade e organização. | `C#` `.NET` `POO` |
 | 🛒 **[E-commerce Checkout](https://github.com/rafaellfsouza/ecommerce-checkout-xunit)** | Módulo de checkout com regras de negócio cobertas por testes unitários. | `C#` `xUnit` `TDD` |
 | 🎨 **[MR Pinturas](https://github.com/rafaellfsouza/mr-pinturas)** | Site institucional responsivo com layout moderno e foco em usabilidade. | `HTML5` `CSS3` `JavaScript` |
-| 🚀 **[Estação Espacial Orbit](https://github.com/rafaellfsouza/estacao-espacial-orbit)** | Aplicação em Java explorando orientação a objetos e modelagem de domínio. | `Java` `POO` |
+| 🏛️ **[Lista de Objetos](https://github.com/rafaellfsouza/Lista-Objetos)** | Modelagem orientada a objetos em Java: 5 entidades com encapsulamento e regras de negócio reais (`ContaBancaria`). | `Java` `POO` |
 | 🧮 **[Calculadora de Saúde](https://github.com/rafaellfsouza/gqs-calculadora-saude-py)** | Calculadora de indicadores de saúde desenvolvida em Python. | `Python` `Lógica` |
 | 🧾 **[Calculadora de Descontos](https://github.com/rafaellfsouza/calculadora-descontos-xunit)** | Motor de cálculo de descontos validado por testes unitários. | `C#` `xUnit` |
 | 🎮 **[Gamer Profile](https://github.com/rafaellfsouza/gamer-profile-xunit)** | Perfil de jogador com pontuação e conquistas, testado com xUnit. | `C#` `xUnit` |
